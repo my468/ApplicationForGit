@@ -12,6 +12,8 @@ namespace ApplicationForGit
         {
             Console.WriteLine("Some changes!");
             Console.ReadLine();
+            
+            Console.WriteLine("Some new changes added!");
 
         }
     }
