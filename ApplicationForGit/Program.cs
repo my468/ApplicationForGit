@@ -10,6 +10,9 @@ namespace ApplicationForGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Some changes!");
+            Console.ReadLine();
+
         }
     }
 }
